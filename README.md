@@ -52,14 +52,14 @@ I'm a **Full Stack Developer** with experience since 2016, specializing in **Rea
 </div>
 
 ---
-
+<!-- 
 ## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pep3M&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
----
+--- -->
 
 ## 📫 Connect With Me
 
